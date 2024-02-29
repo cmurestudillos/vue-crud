@@ -1,0 +1,27 @@
+{
+  "name": "vue-crud",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/vue-fontawesome": "^3.0.6",
+    "axios": "^1.6.7",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.17.3",
+    "sweetalert2": "^11.10.5",
+    "vue": "^3.4.19",
+    "vue-router": "^4.3.0",
+    "vuelidate": "^0.7.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.4"
+  }
+}
